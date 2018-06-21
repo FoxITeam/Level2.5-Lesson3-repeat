@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Queue {
 
     /**
+     *
      * Переменные
      */
     private int[] queue;

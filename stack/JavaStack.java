@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  *  конвенция по написанию кода java: https://habr.com/post/112042/
+ *
  */
 public class JavaStack {
     public static void main(String[] args) throws IOException {

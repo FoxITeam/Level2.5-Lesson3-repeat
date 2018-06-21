@@ -2,6 +2,7 @@ package ru.foxit.grayfox.DZ;
 
 public class Dek {
     /**
+     *
      * 3. Создать класс для реализации дека.
      * PushBack — добавление в конец очереди.
      * PushFront — добавление в начало очереди.

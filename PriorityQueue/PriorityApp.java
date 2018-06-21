@@ -1,6 +1,7 @@
 package ru.foxit.grayfox.PriorityQueue;
 
 public class PriorityApp {
+
     public static void main(String[] args) {
         PriorityQueue q = new PriorityQueue(5);
 

@@ -19,6 +19,7 @@ public class Main {
     /**
      *  Напишем метод, который будем нам осуществлять проверку на пустоту и на переполненность.
      * @return
+     *
      */
     public boolean isFull() { // Переполнение
         return (this.top == this.maxSize - 1);

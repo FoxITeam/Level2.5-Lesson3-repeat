@@ -12,7 +12,6 @@ public class MainQueue {
         // Переворачиваем введенные значения.
         q.reverse();
 
-
         //[11][22][33][44][55]
         //q.remove();
         //q.remove();

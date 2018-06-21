@@ -32,6 +32,7 @@ public class PriorityQueue {
                 else break;
             }
             // И осуществляем непосредственно вставку!
+
             queueArray[i + 1] = item;
             items++;
         }

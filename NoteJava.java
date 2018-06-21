@@ -22,6 +22,7 @@ public class NoteJava {
      * todo | Брюс Эккель «Философия Java» (4-е полное издание) - https://lyapidov.ru/bruce-eckel-thinking-in-java-4th-edition/
      * todo | Структуры данных и алгоритмы Java - http://padabum.com/d.php?id=109037
      * todo | Важные заметки, которые очень пригодятся на следующих занятиях.
+     *
      */
 
     public static void keyJava() {

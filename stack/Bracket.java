@@ -12,6 +12,7 @@ public class Bracket {
         Main st = new Main(size);
 
         //charAt возвращает символ.
+
         for (int i = 0; i < input.length(); i++) {
             char ch = input.charAt(i);
             switch (ch) {
